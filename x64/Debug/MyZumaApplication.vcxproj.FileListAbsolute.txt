@@ -1,0 +1,3 @@
+C:\MyZumaApplication\x64\Debug\MyZumaApplication.exe
+C:\MyZumaApplication\x64\Debug\MyZumaApplication.vcxproj.CopyComplete
+C:\MyZumaApplication\x64\Debug\raylib.dll

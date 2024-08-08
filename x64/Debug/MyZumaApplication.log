@@ -1,0 +1,25 @@
+﻿  game.cpp
+C:\MyZumaApplication\level.h(31,40): warning C4244: =: преобразование "const float" в "int", возможна потеря данных
+  (компиляция исходного файла "game.cpp")
+  
+C:\MyZumaApplication\level.h(40,40): warning C4244: =: преобразование "const float" в "int", возможна потеря данных
+  (компиляция исходного файла "game.cpp")
+  
+C:\MyZumaApplication\level.h(209,39): warning C4244: =: преобразование "const float" в "int", возможна потеря данных
+  (компиляция исходного файла "game.cpp")
+  
+C:\MyZumaApplication\level.h(218,39): warning C4244: =: преобразование "const float" в "int", возможна потеря данных
+  (компиляция исходного файла "game.cpp")
+  
+C:\MyZumaApplication\level.h(253,40): warning C4244: =: преобразование "const float" в "int", возможна потеря данных
+  (компиляция исходного файла "game.cpp")
+  
+C:\MyZumaApplication\level.h(262,40): warning C4244: =: преобразование "const float" в "int", возможна потеря данных
+  (компиляция исходного файла "game.cpp")
+  
+C:\MyZumaApplication\game.cpp(174,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\MyZumaApplication\game.cpp(175,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\MyZumaApplication\game.cpp(176,84): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  MyZumaApplication.vcxproj -> C:\MyZumaApplication\x64\Debug\MyZumaApplication.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
